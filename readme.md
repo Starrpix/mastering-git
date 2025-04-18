@@ -1,3 +1,3 @@
 ## Hello Git!
 
-- I'm adding this really from feature-branch.
+- I'm adding this right here from feature-branch.
